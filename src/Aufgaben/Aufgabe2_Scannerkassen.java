@@ -3,7 +3,6 @@ package Aufgaben;
 import java.lang.Math;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class Aufgabe2_Scannerkassen {
 
